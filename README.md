@@ -1,0 +1,1 @@
+This is Koncept's first git project
