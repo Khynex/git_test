@@ -1,1 +1,1 @@
-This is Koncept's first git project
+This is Koncept's git project
