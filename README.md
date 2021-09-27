@@ -1,1 +1,3 @@
-This is Koncept's git project
+One page demo school project
+
+https://khynex.github.io/git_test/
