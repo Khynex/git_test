@@ -1,3 +1,3 @@
 One page demo school project
 
-https://khynex.github.io/git_test/
+Access the page link here: https://khynex.github.io/git_test/
